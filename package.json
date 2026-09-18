@@ -1,0 +1,13 @@
+{
+  "name": "subtitle-maker",
+  "version": "1.0.0",
+  "description": "Automatic subtitle generator for videos",
+  "main": "api/transcribe.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "form-data": "^4.0.0"
+  }
+}
