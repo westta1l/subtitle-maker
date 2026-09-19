@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npm install",
+  "functions": {
+    "api/transcribe.js": {
+      "maxDuration": 300
+    }
+  }
+}
